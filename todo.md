@@ -1,0 +1,9 @@
+- Update package if it is already installed
+- Support to install chrome extensions
+- Support to install npm packages
+- Configure windows
+- Configure vscode
+- Configure VisualStudio
+- Configure Git
+    - git config --global user.email "you@example.com"
+    - git config --global user.name "you@example.com"

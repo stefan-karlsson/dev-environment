@@ -1,0 +1,10 @@
+{
+    "timeout": 600,
+    "logFile": "./log.txt",
+    "prerequisite": {
+        "powershell": 6
+    },
+    "confirmAllPrompts": true,
+    "limitOutput": true,
+    "acceptLicense": true
+}

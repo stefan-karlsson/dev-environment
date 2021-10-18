@@ -1,0 +1,107 @@
+{
+    "name": "Example profile",
+    "applications": [
+        {
+            "packageName": "vscode",
+            "config": {},
+            "plugins": [
+                {}
+            ]
+        },
+        {
+            "packageName": "googlechrome"
+        },
+        {
+            "packageName": "firefox"
+        },
+        {
+            "packageName": "microsoft-edge"
+        },
+        {
+            "packageName": "zoom"
+        },
+        {
+            "packageName": "microsoft-teams"
+        },
+        {
+            "packageName": "putty.install"
+        },
+        {
+            "packageName": "filezilla"
+        },
+        {
+            "packageName": "curl"
+        },
+        {
+            "packageName": "postman"
+        },
+        {
+            "packageName": "docker-desktop"
+        },
+        {
+            "packageName": "sourcetree"
+        },
+        {
+            "packageName": "mysql.workbench"
+        },
+        {
+            "packageName": "androidstudio"
+        },
+        {
+            "packageName": "microsoft-windows-terminal"
+        },
+        {
+            "packageName": "lastpass"
+        },
+        {
+            "packageName": "nosql-workbench"
+        },
+        {
+            "packageName": "slack"
+        },
+        {
+            "packageName": "nuget.commandline"
+        },
+        {
+            "packageName": "fiddler"
+        },
+        {
+            "packageName": "git"
+        },
+        {
+            "packageName": "awscli"
+        },
+        {
+            "packageName": "awssamcli"
+        },
+        {
+            "packageName": "7zip"
+        },
+        {
+            "packageName": "notepadplusplus"
+        },
+        {
+            "packageName": "visualstudio2019professional"
+        },
+        {
+            "packageName": "resharper-platform"
+        },
+        {
+            "packageName": "adobereader"
+        },
+        {
+            "packageName": "python"
+        },
+        {
+            "packageName": "google-drive-file-stream"
+        },
+        {
+            "packageName": "nvm.portable",
+            "commands": [
+                "nvm install latest",
+                "nvm install lts",
+                "nvm use lts"
+            ]
+        }
+    ]
+}
